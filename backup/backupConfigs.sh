@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # A script to backup configuration files.
-# Can be modified to remotely transfer files by 
+# Can be modified to backup files remotely by 
 # using scp instead of cp and changing config directory.
 # For automation, use cron. 
 
