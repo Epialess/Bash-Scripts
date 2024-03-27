@@ -4,7 +4,7 @@
 # of a network once an hour and save the results in a log file
 
 # To automate this script to run once an hour, use cron "crontab -e"
-# and this command "0 * * * * /path/to/bandwidth_test.sh"
+# and this command "0 * * * * /path/to/bandwidth.sh"
 
 # Prerequisite: speedtest-cli
 
