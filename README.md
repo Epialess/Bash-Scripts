@@ -8,3 +8,4 @@ The goal is to practice scripting using Bourne-Again SHell (BASH).
 * [Reverse Names of Ownership](https://github.com/Epialess/Bash-Scripts/tree/main/reverse)
 * [Packet Sniffer](https://github.com/Epialess/Bash-Scripts/tree/main/sniff)
 * [Ping All IP Addresses from a File](https://github.com/Epialess/Bash-Scripts/tree/main/pingAll)
+* [Bandwidth Checker + Logger](https://github.com/Epialess/Bash-Scripts/tree/main/bandwidth)
