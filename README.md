@@ -12,3 +12,4 @@ The goal is to practice scripting using Bourne-Again SHell (BASH).
 * [Bandwidth Checker + Logger](https://github.com/Epialess/Bash-Scripts/tree/main/bandwidth)
 * [Network Discovery Tool](https://github.com/Epialess/Bash-Scripts/tree/main/networkScan)
 * [Backup Local Files](https://github.com/Epialess/Bash-Scripts/tree/main/backup)
+* [Domain Lookup](https://github.com/Epialess/Bash-Scripts/tree/main/domainInfo)
